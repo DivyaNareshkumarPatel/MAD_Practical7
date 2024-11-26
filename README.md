@@ -12,6 +12,4 @@
 ---
 
 ## Screenshots
-![Main Screen](https://github.com/DivyaNareshkumarPatel/MAD_Practical7/blob/master/1.jpeg){:height="300px"}
-
-![Data Storage Screen](https://github.com/DivyaNareshkumarPatel/MAD_Practical7/blob/master/2.jpeg){:height="300px"}
+![Main Screen](https://github.com/DivyaNareshkumarPatel/MAD_Practical7/blob/master/1.jpeg)       ![Data Storage Screen](https://github.com/DivyaNareshkumarPatel/MAD_Practical7/blob/master/2.jpeg)
